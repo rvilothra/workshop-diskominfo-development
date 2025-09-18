@@ -11,7 +11,7 @@ export default function Home() {
             Layanan Publik Terpadu Kabupaten Bogor
           </h1>
           <p className="text-gray-600">
-            Nikmati layanan dengan mudah dan efisien, menuju Kabupaten Bogor yang Istimewa dan Gemilang.
+            Solusi Cepat dan Efisien untuk Masyarakat Bogor
           </p>
         </div>
 
