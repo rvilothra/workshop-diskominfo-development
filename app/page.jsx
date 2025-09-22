@@ -11,7 +11,7 @@ export default function Home() {
             Layanan Publik Terpadu DPMPTSP Kab Bogor
           </h1>
           <p className="text-gray-600">
-            Solusi Cepat dan Efisien untuk Masyarakat Kabupaten Bogor
+            Solusi Cepat dan Efisien untuk Masyarakat DI Kabupaten Bogor
           </p>
         </div>
 
